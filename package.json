@@ -1,0 +1,22 @@
+{
+  "name": "mdc-greeter",
+  "version": "1.0.0",
+  "description": "getting started with google mdc",
+  "main": "index.js",
+  "scripts": {
+    "test": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djorborn/mdc-greeter.git"
+  },
+  "author": "djorborn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djorborn/mdc-greeter/issues"
+  },
+  "homepage": "https://github.com/djorborn/mdc-greeter#readme",
+  "dependencies": {
+    "material-components-web": "^0.31.0"
+  }
+}
